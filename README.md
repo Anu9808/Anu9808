@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 ### 🛠️ DevOps Tools
 I’m proficient in a range of DevOps tools and technologies:
 
-- **OS and Languages:** <p align="center">
+- **OS and Languages:** <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,py,bash" />
   </a>
 </p>
 
-- **Cloud Platforms:** <p align="center">
+- **Cloud Platforms:** <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure" />
   </a>
 </p>
 
-- **CI/CD:** <p align="center">
+- **CI/CD:** <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,gitlab," />
   </a>
@@ -48,19 +48,19 @@ I’m proficient in a range of DevOps tools and technologies:
 <!--
 Jenkins, GitLab CI, AWS CodePipeline, Git, ArgoCD-->
 
-- **Containerization:** <p align="center">
+- **Containerization:** <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   </a>
 </p>
 
-- **Infrastructure and Configuration Management:** <p align="center">
+- **Infrastructure and Configuration Management:** <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=terraform,ansible" />
   </a>
 </p>
 
-- **Monitoring & Logging:** <p align="center">
+- **Monitoring & Logging:** <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch," />
   </a>
