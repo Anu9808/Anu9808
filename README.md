@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 I’m proficient in a range of DevOps tools and technologies:
 - **OS and Languages:** Linux, Windows, Python, Shell scripting
 - **Cloud Platforms:** AWS, Azure
-- **CI/CD:** Jenkins, GitLab CI, AWS CodePipeline
+- **CI/CD:** Jenkins, GitLab CI, AWS CodePipeline, Git, ArgoCD
 - **Containerization:** Docker, Kubernetes
 - **Configuration Management:** Ansible, Terraform
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Cloudwatch, Fluent-bit
@@ -40,7 +40,12 @@ Here are some of the projects I’ve worked on:
 Feel free to explore more of my projects on my [GitHub Repositories](https://github.com/Anu9808).
 
 ### 📊 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=Anu9808&theme=dark&background=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu9808&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anu9808&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+-->
 
 ### 📫 Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/er-anuragsharma/)** - Connect with me on LinkedIn
