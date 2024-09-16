@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Anurag Sharma 👋
 
+!(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+![Profile views](https://komarev.com/ghpvc/?username=Anu9808&label=Profile%20views&color=0e75b6&style=flat)
+
 ### 🌟 About Me
 
-- **Role:** Cloud DevOps Engineer with over 3.6 years of experience in crafting robust and reliable solutions using cutting-edge technologies.
-- **Interests:** Learning from tech blogs and staying updated with the latest technology trends
-- **Hobbies:** Exploring new tech advancements and sharing knowledge with the community
+- I'm a Cloud DevOps Engineer with over 3.6 years of experience in crafting robust and reliable solutions using cutting-edge technologies. I thrive on creating efficient and scalable systems and am always eager to dive into the latest tech advancements. When I'm not working, you’ll find me immersed in tech blogs or exploring new technology trends.
 
 ### 🛠️ DevOps Tools
 I’m proficient in a range of DevOps tools and technologies:
@@ -40,6 +42,17 @@ Here are some of the projects I’ve worked on:
 Feel free to explore more of my projects on my [GitHub Repositories](https://github.com/Anu9808).
 
 ### 📊 My Stats
+<!--
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anu9808&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Anu9808&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
+-->
 ![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=Anu9808&theme=dark&background=000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu9808&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
