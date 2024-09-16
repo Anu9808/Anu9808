@@ -33,11 +33,13 @@ I’m proficient in a range of DevOps tools and technologies:
     <img src="https://skillicons.dev/icons?i=linux,windows,py,bash" />
   </a>
 </p>
+
 - **Cloud Platforms:** <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure" />
   </a>
 </p>
+
 - **CI/CD:** <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,gitlab," />
@@ -45,12 +47,13 @@ I’m proficient in a range of DevOps tools and technologies:
 </p>
 <!--
 Jenkins, GitLab CI, AWS CodePipeline, Git, ArgoCD-->
+
 - **Containerization:** <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   </a>
 </p>
-Docker, Kubernetes
+
 - **Infrastructure and Configuration Management:** <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=terraform,ansible" />
