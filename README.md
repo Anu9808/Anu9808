@@ -14,17 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there, I'm Anurag Sharma 👋
+
 ![## Hi there, I'm Anurag Sharma 👋](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Anu9808&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🌟 About Me
 
-- I'm a Cloud DevOps Engineer with over 3.6 years of experience in crafting robust and reliable solutions using cutting-edge technologies. I thrive on creating efficient and scalable systems and am always eager to dive into the latest tech advancements. When I'm not working, you’ll find me immersed in tech blogs or exploring new technology trends.
+- I'm a Cloud DevOps Engineer with over 3.6 years of experience in crafting robust and reliable solutions using cutting-edge technologies. I thrive on creating efficient and scalable systems and am always eager to dive into the latest tech advancements.
+- When I'm not working, you’ll find me immersed in tech blogs or exploring new technology trends.
 
 ### 🛠️ DevOps Tools
 I’m proficient in a range of DevOps tools and technologies:
-- **OS and Languages:** Linux, Windows, Python, Shell scripting
+- **OS and Languages:** <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 - **Cloud Platforms:** AWS, Azure
 - **CI/CD:** Jenkins, GitLab CI, AWS CodePipeline, Git, ArgoCD
 - **Containerization:** Docker, Kubernetes
