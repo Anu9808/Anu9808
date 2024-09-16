@@ -27,17 +27,50 @@ Here are some ideas to get you started:
 
 ### 🛠️ DevOps Tools
 I’m proficient in a range of DevOps tools and technologies:
+
 - **OS and Languages:** <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,py,bash" />
   </a>
 </p>
+- **Cloud Platforms:** <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure" />
+  </a>
+</p>
+- **CI/CD:** <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,gitlab," />
+  </a>
+</p>
+<!--
+Jenkins, GitLab CI, AWS CodePipeline, Git, ArgoCD-->
+- **Containerization:** <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  </a>
+</p>
+Docker, Kubernetes
+- **Infrastructure and Configuration Management:** <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+  </a>
+</p>
+
+- **Monitoring & Logging:** <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch," />
+  </a>
+</p>
+
+<!--
+- **OS and Languages:** Linux, Windows, Python, Shell Scripting
 - **Cloud Platforms:** AWS, Azure
 - **CI/CD:** Jenkins, GitLab CI, AWS CodePipeline, Git, ArgoCD
 - **Containerization:** Docker, Kubernetes
 - **Configuration Management:** Ansible, Terraform
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Cloudwatch, Fluent-bit
-
+-->
 <!--
 ### 💼 My Projects
 Here are some of the projects I’ve worked on:
